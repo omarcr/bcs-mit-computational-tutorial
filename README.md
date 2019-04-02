@@ -31,6 +31,6 @@ If you are using your own Python distribution or older versions of Anaconda:
 * Update scikit-learn to version 0.20.3
 * Update matplotlib to version 3.0.3
 
-`pip install scikit-learn –upgrade`
+`pip install scikit-learn --upgrade`
 
 `pip install matplotlib --upgrade`
