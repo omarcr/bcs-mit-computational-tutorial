@@ -4,7 +4,7 @@
 ## Speaker: Omar Costilla Reyes, PhD
 
 ## Computation Tutorial 
-## April 2nd, 2019 2:00pm - 4:00pm
+## April 2nd, 2019 2:00pm - 4:00pm, McGovern Seminar Room (46-3189), Building 46 - MIT
 
 
 Description: Neural decoding has applications in neuroscience from understanding neural populations to build brain-computer interfaces. In this computational tutorial, I will introduce neural decoding principles from a machine learning perspective using the Python programming language. The tutorial will be focused on data preprocessing, model selection and optimization for decoding neural information from spike trains and local field potentials. The studied dataset contains neural information from six cortical areas of the macaque brain spanning from the frontal to the occipital lobe.
