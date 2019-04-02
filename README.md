@@ -15,6 +15,7 @@ https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/EcqGMu4Q-4tEmD
 ## Download spike data:
 https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/ERm20qsf-3xDr6rN4wzPUFUBI_N4qmHYcIL-4c4JxRK8qw?e=gemu1M
 
+## additional information
 
 To follow along with the tutorial, bring a laptop with Anaconda Python 3.7 installed. Download for Windows/MacOS/Linux: https://www.anaconda.com/distribution/. 
 
@@ -23,4 +24,5 @@ Update scikit-learn to version 0.20.3
 Update matplotlib to version 3.0.3
 
 `pip install scikit-learn –upgrade`
+
 `pip install matplotlib --upgrade`
