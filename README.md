@@ -12,10 +12,18 @@ Description: Neural decoding has applications in neuroscience from understanding
 ## Download LFP data:
 https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/EcqGMu4Q-4tEmDio2eSe2Y8BkSXwbrDqKbbpXUEvS4YR7g?e=ThRKAO
 
+Mirror:
+https://drive.google.com/file/d/14TinfOsyJg8RCu7WsgxIbJ5THZQVfqpe/view?usp=sharing
+
+
 ## Download spike data:
 https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/ERm20qsf-3xDr6rN4wzPUFUBI_N4qmHYcIL-4c4JxRK8qw?e=gemu1M
 
-## additional information
+Mirror:
+https://drive.google.com/file/d/1ut1iIpnq0EWlk9T6yggsTiQg6lz8N3i0/view?usp=sharing
+
+
+## Additional information
 
 To follow along with the tutorial, bring a laptop with Anaconda Python 3.7 installed. Download for Windows/MacOS/Linux: https://www.anaconda.com/distribution/. 
 
