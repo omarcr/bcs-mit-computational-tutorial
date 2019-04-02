@@ -10,17 +10,16 @@
 Description: Neural decoding has applications in neuroscience from understanding neural populations to build brain-computer interfaces. In this computational tutorial, I will introduce neural decoding principles from a machine learning perspective using the Python programming language. The tutorial will be focused on data preprocessing, model selection and optimization for decoding neural information from spike trains and local field potentials. The studied dataset contains neural information from six cortical areas of the macaque brain spanning from the frontal to the occipital lobe.
 
 ## Download LFP data:
-https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/EcqGMu4Q-4tEmDio2eSe2Y8BkSXwbrDqKbbpXUEvS4YR7g?e=ThRKAO
 
-Mirror:
-https://drive.google.com/file/d/14TinfOsyJg8RCu7WsgxIbJ5THZQVfqpe/view?usp=sharing
+[Mirror 1](https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/EcqGMu4Q-4tEmDio2eSe2Y8BkSXwbrDqKbbpXUEvS4YR7g?e=ThRKAO)
 
+[Mirror 2](https://drive.google.com/file/d/14TinfOsyJg8RCu7WsgxIbJ5THZQVfqpe/view?usp=sharing)
 
 ## Download spike data:
-https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/ERm20qsf-3xDr6rN4wzPUFUBI_N4qmHYcIL-4c4JxRK8qw?e=gemu1M
 
-Mirror:
-https://drive.google.com/file/d/1ut1iIpnq0EWlk9T6yggsTiQg6lz8N3i0/view?usp=sharing
+[Mirror 1](https://mitprod-my.sharepoint.com/:u:/g/personal/costilla_mit_edu/ERm20qsf-3xDr6rN4wzPUFUBI_N4qmHYcIL-4c4JxRK8qw?e=gemu1M)
+
+[Mirror 2](https://drive.google.com/file/d/1ut1iIpnq0EWlk9T6yggsTiQg6lz8N3i0/view?usp=sharing)
 
 
 ## Additional information
@@ -34,3 +33,9 @@ If you are using your own Python distribution or older versions of Anaconda:
 `pip install scikit-learn --upgrade`
 
 `pip install matplotlib --upgrade`
+
+Questions, feedback: @[konet](https://twitter.com/konet)
+
+Licence: [BSD clause 3](https://opensource.org/licenses/BSD-3-Clause)
+
+Made with :heart: @[MIT](https://twitter.com/mit)
