@@ -27,12 +27,8 @@ Description: Neural decoding has applications in neuroscience from understanding
 To follow along with the tutorial, bring a laptop with Anaconda Python 3.7 installed. Download for Windows/MacOS/Linux: https://www.anaconda.com/distribution/. 
 
 If you are using your own Python distribution or older versions of Anaconda:
-* Update scikit-learn to version 0.20.3
-* Update matplotlib to version 3.0.3
-
-`pip install scikit-learn --upgrade`
-
-`pip install matplotlib --upgrade`
+* Update scikit-learn to version 0.20.3: `pip install scikit-learn --upgrade`
+* Update matplotlib to version 3.0.3: `pip install matplotlib --upgrade`
 
 Questions, feedback: @[konet](https://twitter.com/konet)
 
