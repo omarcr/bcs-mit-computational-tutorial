@@ -1,7 +1,7 @@
 ![alt text](https://github.com/omarcr/bcs-mit-computational-tutorial/blob/master/bcs-logo.png)
 
 # Neural decoding of spike trains and local field potentials with machine learning in python
-# Speaker: Omar Costilla Reyes, PhD
+## Speaker: Omar Costilla Reyes, PhD
 
 ## Computation Tutorial 
 ## April 2nd, 2019 2:00pm - 4:00pm
